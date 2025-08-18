@@ -5,9 +5,10 @@
 # y ajustes personalizados para mejorar la detección y      #
 # segmentación de objetos circulares o irregulares.         #    
 #                                                           #
-# Grupo de investigación en simulación de nanomateriales    #
-# Analila Luna Vanlenzuela (ORCID: 0000-0002-9794-8193)     #
-# Isidoro López-Miranda (ORCID: 0009-0000-5654-6756)        #
+# Grupo de investigación:                                   #
+# Métodos computacionales en nano-biomateriales y biomedicina
+# Dra. Analila Luna Valenzuela (ORCID: 0000-0002-9794-8193) #
+# Dr. Isidoro López-Miranda (ORCID: 0009-0000-5654-6756)    #
 #                                                           # 
 # Versión 10.09, 20250811_112438                            #
 #                                                           #
